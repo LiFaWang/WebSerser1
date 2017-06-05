@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\libs\servlet-api-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5959582d97d8b61f4d154ca9e495aafd16726e34">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\servlet-api-2.5_7d7edce0ab5ca7487fdd3c490c0fae970f69a09f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\libs\jetty-continuation-7.6.0.RC4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b4e0c783cd6cd6424981f3531660f92edf3f181">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\jetty-continuation-7.6.0.RC4_237126adf00614ea1b289da40d40879b74ec6146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\libs\jetty-webapp-7.6.0.RC4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364e0a14dd4e21cdee805e0d665e80fd07f70095">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\jetty-webapp-7.6.0.RC4_8bd0e4ebe1494f42490ebe5845c6640526d225d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\libs\jetty-http-7.6.0.RC4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e797c61b523776dacfb5592bdfce6a9ddbbda7a7">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\jetty-http-7.6.0.RC4_d7f0e94677a7c29164d95871cba47c8565a0344b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\a8458017cb85709d0a80cf10ce26b47f9ceec55a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\classes_a705c72ef45e9995ca18e5c2c9299dcf81793a43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\libs\jetty-security-7.6.0.RC4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8a00106b80f8cca740c34f80a644d2361b01713">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\jetty-security-7.6.0.RC4_84fe7774d9b0791247f67a40d850ba66363897ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\82a3f36910b0ddfd8089572c77fd905016a34646\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\classes_b34d3f841125ca57981059a0748f9a7252f56176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\libs\jetty-util-7.6.0.RC4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6636941bedf8a45873547601555daa5e846c9b73">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\jetty-util-7.6.0.RC4_7e10cdb8c52210da03408763cbf89e2348e1e09e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\libs\jetty-servlet-7.6.0.RC4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c31bbf468fac41f10dc3a139770f14a4edd2b670">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\jetty-servlet-7.6.0.RC4_9ffc0986adfe2868ed236157f01786bdd450ba67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\libs\jetty-deploy-7.6.0.RC4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2def705ba01d2ac2527fc39ca464c6f5fa5e62d8">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\jetty-deploy-7.6.0.RC4_a918168601b52cfbe62e18a7628cf1903cdfed2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\libs\jetty-io-7.6.0.RC4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b870fb050ff237c75ed0de289f77d419e2821d4">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\jetty-io-7.6.0.RC4_945d46397ec0fdf00153cb620551450a647e3dc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\libs\jstl-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74aca283cd4f4b4f3e425f5820cda58f44409547">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\jstl-1.2_4a6a8bfd24ca753395ce2a8bf9c521afbb91a8a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\dc5b30d30f78bca3c7d2bdad3bb60af976bf508d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\classes_61f1640263d938c7a3d487900bf3235352679c1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e8fc42e7af4d2249c1a42b9f78cc396b110d8825\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\classes_e48be9bbacce4bcb891220737bdaf98f05c87d21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_77bbafad21bc1ac169e6a221a15373f3eab9dd96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\3a5c165a798ceca9ebaf6ff5c529fecd413ecc6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\classes_0f64ceb142a55f350acde94ba49d505c5d4764c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\libs\jetty-server-7.6.0.RC4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1e69898d6b7c6d699869608c717e410a6b6dcd8">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\jetty-server-7.6.0.RC4_732821896592d5f5df57be76543af632a9646c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\67608936e8e01d0829e293017f713ed8641f0235\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\classes_95936082397155c83748fecc72420755246ac5d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\libs\jetty-client-7.6.0.RC4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f8517dddb9a2ec49fb05b32b066cad58ef41691">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\jetty-client-7.6.0.RC4_4a7e539524d93a911234d5625f9228a57d3d3509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\libs\jetty-xml-7.6.0.RC4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2af248565bf1fc901c5afc215631ee44e66076ba">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\WebSerser1\app\build\intermediates\pre-dexed\debug\jetty-xml-7.6.0.RC4_dcda4730b55cc175029f4be0b215314617727928.jar" />
+    </item>
+
+</items>
